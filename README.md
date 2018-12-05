@@ -1,6 +1,6 @@
 # se2-mini-exam
 
-[![Build Status](https://travis-ci.com/jorgeramirez/se2-mini-exam.svg?token=gfxPCZkjSzyQMTd8Ez3J&branch=master)](https://travis-ci.com/jorgeramirez/se2-mini-exam)
+[![Build Status](https://travis-ci.com/jorgeramirez/se2-mini-exam.svg?branch=master)](https://travis-ci.com/jorgeramirez/se2-mini-exam)
 
 Mini exam solution
 
