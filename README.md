@@ -1,8 +1,8 @@
-# se2-movies
+# se2-mini-exam
 
-[![Build Status](https://travis-ci.com/jorgeramirez/se2-movies.svg?branch=master)](https://travis-ci.com/jorgeramirez/se2-movies)
+[![Build Status](https://travis-ci.com/jorgeramirez/se2-mini-exam.svg?branch=master)](https://travis-ci.com/jorgeramirez/se2-mini-exam)
 
-A tiny movies API.
+Mini exam solution
 
 ## Run
 
@@ -27,10 +27,7 @@ $ npm test
 Endpoints
 
 - http://localhost:3000/ health check endpoint
-- http://localhost:3000/movies (POST, GET)
-- http://localhost:3000/movies/:id (GET)
-- http://localhost:3000/stars (POST, GET)
-- http://localhost:3000/stars/:id (GET)
+- http://localhost:3000/square?string=value (GET)
 
 ## License
 
