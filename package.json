@@ -1,0 +1,25 @@
+{
+  "name": "se2-mini-exam",
+  "version": "0.1.0",
+  "description": "SEII - mini exam",
+  "scripts": {
+    "start": "node -r dotenv/config src/server.js",
+    "test": "jest --verbose"
+  },
+  "author": "Jorge Ramírez",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.1.0",
+    "express": "^4.16.4",
+    "google-auth-library": "^2.0.1",
+    "node-fetch": "^2.2.1",
+    "passport": "^0.4.0",
+    "passport-google-oauth": "^1.0.0",
+    "passport-http-bearer": "^1.0.1"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "supertest": "^3.3.0"
+  }
+}
